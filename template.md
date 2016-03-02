@@ -19,4 +19,4 @@ Here's a Street View of 22seven: http://bit.ly/1L4nsjT . Two big black doors!
 
 ---
 
-Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct.html). Thanks! :)
+Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct/). Thanks! :)
