@@ -14,6 +14,7 @@ Here's a Street View of 22seven: http://bit.ly/1L4nsjT . Two big black doors!
 
 ## About the talk
 
+* Title of the talk
 * Blurb
 * Image
 
