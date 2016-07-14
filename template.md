@@ -18,6 +18,11 @@ Here's a Street View of 22seven: http://bit.ly/1L4nsjT . Two big black doors!
 * Blurb
 * Image
 
+## About you
+
+* Assumed knowledge
+* Suggested experience level
+
 ---
 
 Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct/). Thanks! :)
