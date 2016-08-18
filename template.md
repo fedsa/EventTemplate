@@ -16,6 +16,7 @@
 
 * Assumed knowledge
 * Suggested experience level
+* What you need to bring
 
 ---
 
