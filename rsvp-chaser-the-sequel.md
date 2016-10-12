@@ -12,4 +12,6 @@ Thank you!
 
 Regards,
 
-Steve & Justin
+Danielle & Justin & Steve
+
+The CTFEDs organising team
