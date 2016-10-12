@@ -13,5 +13,6 @@ If you don't reply to this message by 6pm on {{ rsvp-date }} we'll assume you ca
 
 Regards,
 
-Steve & Justin
-CTFEDs Organising Team
+Danielle & Justin & Steve
+
+The CTFEDs organising team
