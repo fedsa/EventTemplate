@@ -1,11 +1,3 @@
-## About the speaker
-
-* Blurb
-* Website: http://
-* Twitter account: @
-* GitHub account: https://github.com/
-* Photo
-
 ## About the talk
 
 * Title of the talk
@@ -13,6 +5,14 @@
 * Image
 
 Arrive from 6.30. The talk will start at 7.
+
+## About the speaker
+
+* Blurb
+* Website: http://
+* Twitter account: @
+* GitHub account: https://github.com/
+* Photo
 
 ## About you
 
