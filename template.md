@@ -12,6 +12,8 @@
 * Blurb
 * Image
 
+Arrive from 6.30. The talk will start at 7.
+
 ## About you
 
 * Assumed knowledge
