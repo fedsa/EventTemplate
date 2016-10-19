@@ -23,3 +23,7 @@ Arrive from 6.30. The talk will start at 7.
 ---
 
 Attendees must read and follow our [Code of Conduct](http://ctfeds.org/code-of-conduct/). Thanks! :)
+
+---
+
+Thank you to {{ venue-sponsor with link }} for providing the venue and to {{ drinks-sponsor with link }} for sponsoring drinks. Yay!
