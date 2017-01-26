@@ -19,7 +19,7 @@ Long version below.
 
 ---
 
-We are looking for speakers for our CTFEDs (Cape Town Front-end Developers) [meetup group](https://www.meetup.com/ctfeds/members/) for this year. We meet after work on the first Wednesday of the month (although when we do workshops we do them on a Saturday morning) and we’ve got open slots from June onwards. Would you be interested in speaking? :)
+We are looking for speakers for our CTFEDs (Cape Town Front-end Developers) [meetup group](https://www.meetup.com/ctfeds/) for this year. We meet after work on the first Wednesday of the month (although when we do workshops we do them on a Saturday morning) and we’ve got open slots from June onwards. Would you be interested in speaking? :)
 
 ```
 Why this person? List at least two things showing them they are awesome and would do a great job. Some ideas below.
