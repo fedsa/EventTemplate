@@ -1,3 +1,7 @@
+## How to find us (location instructions)
+
+{{ Landmarks, photo }}
+
 ## About the talk
 
 * Title of the talk
