@@ -25,7 +25,7 @@ Long version below.
 
 ---
 
-We would love you to come and speak at our CTFEDs (Cape Town Front-end Developers) [meetup group](https://www.meetup.com/ctfeds/). We feel that speaking can be a bit initimidating, so we offer as much help as we can. We can help with the topic, the talk (or workshop), help you practice, and more. We’ve got a [Call For Speakers page](http://ctfeds.org/call-for-speakers/) that has a bunch more words about this.
+We would love you to come and speak at our CTFEDs (Cape Town Front-end Developers) [meetup group](https://www.meetup.com/ctfeds/). Whether it's your first time talking or your tenth, we understand it might feel a bit intimidating, so we offer as much support as you need. We can help with the topic, the talk (or workshop), help you practice, and more. We've got a [Call For Speakers page](http://ctfeds.org/call-for-speakers/) that has a bunch more words about this.
 
 `Why this person? Expand on the elevator pitch above.`
 
