@@ -13,6 +13,6 @@ Thank you!
 
 Regards,
 
-Danielle & Justin & Steve
+Danielle & Justin & Schalk
 
 The CTFEDs organising team
