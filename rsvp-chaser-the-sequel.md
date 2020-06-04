@@ -12,6 +12,6 @@ Thank you!
 
 Regards,
 
-Danielle & Justin & Steve
+Justin & Schalk & Shailen
 
-The CTFEDs organising team
+The FEDSA organising team

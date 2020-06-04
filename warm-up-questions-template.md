@@ -9,6 +9,6 @@ When you reply to this message, we'll update your RSVP to Yes. If you don't repl
 
 Regards,
 
-Danielle & Justin & Steve
+Justin & Schalk & Shailen
 
-The CTFEDs organising team
+The FEDSA organising team

@@ -9,5 +9,6 @@ One of the things we do for our speakers is have a dry run: a practice session b
 
 Regards,
 
-(Danielle & Justin &) Steve
-The CTFEDs organising team
+Justin & Schalk & Shailen
+
+The FEDSA organising team

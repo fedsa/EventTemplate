@@ -11,4 +11,4 @@ We know co-presenting a talk with another person is definitely more work than ju
 Hope to hear from you soon!
 
 Regards,
-team CTFED's (Dani, Steve & Justin)
+team CTFED's (Justin, Schalk & Shailen)
