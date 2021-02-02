@@ -13,4 +13,5 @@ As we are a non-profit and have literally no money this would be pro bono. I jus
 You can read more about us and see our previous events on Meetup - https://www.meetup.com/fedsa-community/
 
 Thanks and regards
-Justin
+
+[Name]
