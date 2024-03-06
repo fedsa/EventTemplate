@@ -43,5 +43,5 @@ Let me know! :)
 
 Regards,
 
-`{{ me }} (& {{ Justin & Schalk & Shailen }})`
+`{{ me }} (& {{ Justin & Schalk }})`
 [The FEDSA organising team](https://www.meetup.com/ctfeds/members/?op=leaders)
